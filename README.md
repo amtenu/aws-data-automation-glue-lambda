@@ -64,12 +64,12 @@ Raw Data (CSV/JSON)
 ## 📌 Roadmap
 
 - [x] Project foundation — variables, structure, gitignore
-- [ ] Day 2 — S3 bucket + versioning + lifecycle rules
-- [ ] Day 3 — IAM roles for Glue and Lambda
-- [ ] Day 4 — CloudWatch logging + SNS alerts
-- [ ] Day 5 — Glue ETL + Crawler
-- [ ] Day 6 — Lambda trigger function
-- [ ] Day 7 — End to end demo + LinkedIn post
+- [ ] Step 2 — S3 bucket + versioning + lifecycle rules
+- [ ] Step 3 — IAM roles for Glue and Lambda
+- [ ] Step 4 — CloudWatch logging + SNS alerts
+- [ ] Step 5 — Glue ETL + Crawler
+- [ ] Step 6 — Lambda trigger function
+- [ ] Step 7 — End to end demo + LinkedIn post
 
 ---
 
