@@ -1,0 +1,5 @@
+aws_region     = "ca-west-1"
+s3_bucket_name = "your-unique-bucket-name-here"
+project_name   = "aws-data-automation"
+environment    = "dev"
+alert_email    = "your-email@gmail.com"
