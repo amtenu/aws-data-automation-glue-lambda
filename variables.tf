@@ -12,11 +12,15 @@ variable "s3_bucket_name" {
 variable "project_name" {
   description = "Short name used to prefix all resources"
   type        = string
-  default     = "aws-data-automation"
+  default     = "milketa"
 }
 
 variable "environment" {
   description = "Deployment environment tag"
   type        = string
   default     = "dev"
+}
+variable "alert_email" {
+  description = "Email address to receive pipeline alerts and billing alarms"
+  type        = string
 }
